@@ -1,0 +1,2 @@
+# Text-Summerizer
+Utilized tokenizer and padding techniques for data preprocessing, and employed pretrained GloVe word vectors for word embedding. Developed an encoder-decoder architecture for text summarization by which the model effectively understands the context of the input.Implemented a mechanism with coverage vectors which enhanced the model to generate summaries by reducing repetitive word usage. Achieved impressive results in text summarization using the combined power of advanced architecture and attention mechanisms.
